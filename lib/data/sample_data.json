@@ -1,0 +1,49 @@
+{
+  "topic": "The Future of Work",
+  "subtopics": [
+    {
+      "question": "What skills will be most important in the future workforce?",
+      "question_date": "2024-07-20T00:00:00.000Z",
+      "approved": false,
+      "possible_answers": [
+        {
+          "answer": "Technical skills (e.g., coding, data analysis)",
+          "date": "2024-07-20T00:00:00.000Z",
+          "approved": false
+        },
+        {
+          "answer": "Soft skills (e.g., communication, teamwork, critical thinking)",
+          "date": "2024-07-20T00:00:00.000Z",
+          "approved": false
+        },
+        {
+          "answer": "Adaptability and lifelong learning",
+          "date": "2024-07-20T00:00:00.000Z",
+          "approved": false
+        }
+      ]
+    },
+    {
+      "question": "How will automation and AI change the types of jobs available?",
+      "question_date": "2024-07-20T00:00:00.000Z",
+      "approved": false,
+      "possible_answers": [
+        {
+          "answer":         "Job displacement in certain sectors",
+          "date": "2024-07-20T00:00:00.000Z",
+          "approved": true
+        },
+        {
+          "answer":        "Creation of new jobs in areas like AI development and maintenance",
+          "date": "2024-07-20T00:00:00.000Z",
+          "approved": false
+        },
+        {
+          "answer":         "Increased need for human-AI collaboration",
+          "date": "2024-07-20T00:00:00.000Z",
+          "approved": false
+        }
+      ]
+    }
+  ]
+}
